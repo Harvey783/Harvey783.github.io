@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Changing arrays to objecys with .mapKeys"
-date:       2018-12-21 00:12:01 +0000
+title:      "Changing arrays to objects with .mapKeys"
+date:       2018-12-20 19:12:02 -0500
 permalink:  changing_arrays_to_objecys_with_mapkeys
 ---
 
