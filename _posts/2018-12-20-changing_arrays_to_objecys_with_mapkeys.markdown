@@ -1,10 +1,9 @@
 ---
 layout: post
-title:      "Changing arrays to objects with .mapKeys"
+title:      "Changing arrays to objects"
 date:       2018-12-20 19:12:02 -0500
 permalink:  changing_arrays_to_objecys_with_mapkeys
 ---
-
 
 .mapKeys is a function in Lodash that takes an array and returns an object. The keys of this new object are going to be taken from each individual record inside of the array. So calling something like .mapKeys(list, "id") in the example below passes in an array and a property string of 'id' as the second arguement. This tells Lodash that whatever the value of 'id' is for any given object inside the array is now the key for that object in our new state object.
 
