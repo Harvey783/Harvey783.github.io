@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JS Closures"
-date:       2019-09-13 02:02:02 +0000
+date:       2019-09-12 22:02:03 -0400
 permalink:  js_closures
 ---
 
