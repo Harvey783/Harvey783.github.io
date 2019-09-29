@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Common JS Capitalization Question"
-date:       2019-09-29 16:25:34 +0000
+date:       2019-09-29 12:25:34 -0400
 permalink:  common_js_capitalization_question
 ---
 
