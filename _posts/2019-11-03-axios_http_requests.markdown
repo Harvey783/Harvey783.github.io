@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Axios HTTP Requests"
-date:       2019-11-04 03:22:31 +0000
+date:       2019-11-03 22:22:32 -0500
 permalink:  axios_http_requests
 ---
 
@@ -19,15 +19,16 @@ class App extends Component {
    }
 	}
 ```
-	
-	Async/Await
-	
+
+Async/Await
+
 ```
 class App extends Component {
   async componentDidMount() {
 	  const response = await axios.get('https://api.github.com/users');
 	  console.log(response.data);
-  }
-}
+   }
+	}
 ```
+	
 	
